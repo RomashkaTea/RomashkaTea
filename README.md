@@ -18,8 +18,8 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 There's also a LOT of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)
 
 ### Get in touch
-- Discord: romashkatea
-- Telegram: [romashkagene](t.me/romashkagene)
+- **Discord**: romashkatea
+- **Telegram**: [romashkagene](t.me/romashkagene)
 
 <!--
 **RomashkaTea/RomashkaTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
