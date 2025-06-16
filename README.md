@@ -12,7 +12,7 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 - **Android**:
   - [MysticLeaks](https://t.me/mysticleaks) - a some pretty cool channel with Google leaks!
   - [MysticGSI](https://t.me/mysticgsi) - a channel with semi-GSI ports
-- **Supercell** :
+- **Supercell**:
   - [Gene Brawl](https://t.me/gene_land) - a pretty nice modification for Brawl Stars
 
 There's also a LOT of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)
