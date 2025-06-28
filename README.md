@@ -4,18 +4,20 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 
 ### Who am I?
 - A guy from **Russia** 🇷🇺 <3
-- Loves **programming** & **reverse engineering**
-- Interested in **security researches** and **confidential stuff** I'm not supposed to have :3
-- i don't know what else to write here ;<
+- **Reverse engineer** & **programmer**
+- Digging into confidential stuff :>
+- I don't know what else to write here ;<
 
 ### My projects
 - **Android**:
-  - [MysticLeaks](https://t.me/mysticleaks) - a some pretty cool channel with Google leaks!
-  - [MysticGSI](https://t.me/mysticgsi) - a channel with semi-GSI ports
+  - [MysticLeaks](https://t.me/mysticleaks) - Android (mostly Google) leaks
+  - [MysticGSI](https://t.me/mysticgsi) - Semi-GSI ports for Android devices
 - **Supercell**:
-  - [Gene Brawl](https://t.me/gene_land) - a pretty nice modification for Brawl Stars
+  - [Gene Brawl](https://t.me/gene_land) - Brawl Stars mod :>
+- **Other**:
+  - [Mystic Plugins](https://t.me/mystic_plugins) - Plugins for exteraGram (unofficial Telegram client)
 
-There's also a LOT of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)
+~There's also a LOT of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)~
 
 ### Get in touch
 - **Discord**: [romashkatea](https://discord.com/users/852922198515646505)
