@@ -13,7 +13,7 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
   - [MysticLeaks](https://t.me/mysticleaks) - Android (mostly Google) leaks
   - [MysticGSI](https://t.me/mysticgsi) - Semi-GSI ports for Android devices
 - **Supercell**:
-  - [Gene Brawl](https://t.me/gene_land) - Brawl Stars mod :>
+  - [Gene Brawl](https://github.com/RomashkaTea/genebrawl-public) - a frida-based modification for Brawl Stars :> (discontinued) 
 - **Other**:
   - [Mystic Plugins](https://t.me/mystic_plugins) - Plugins for exteraGram (unofficial Telegram client)
 
