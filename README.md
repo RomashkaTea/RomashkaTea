@@ -17,7 +17,7 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 - **Other**:
   - [Mystic Plugins](https://t.me/mystic_plugins) - Plugins for exteraGram (unofficial Telegram client)
 
-~There's also a LOT of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)~
+~There are LOTS of projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)~
 
 ### Get in touch
 - **Discord**: [romashkatea](https://discord.com/users/852922198515646505)
