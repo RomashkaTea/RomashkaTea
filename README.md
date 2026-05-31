@@ -4,7 +4,7 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 
 ### Who am I?
 - A guy from **Russia** 🇷🇺 <3
-- A **reverse engineer** & **programmer**
+- A **reverse engineer** & **security researcher**
 - I don't know what else to write here ;<
 
 ### My active projects
