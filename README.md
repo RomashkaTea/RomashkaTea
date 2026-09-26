@@ -10,7 +10,7 @@ I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 ### My active projects
 - **Android**:
   - [MysticLeaks](https://t.me/mysticleaks) - Android (mostly Google) leaks
-  - [MysticGSI](https://t.me/mysticgsi) - Semi-GSI ports for Android devices
+  - [MysticGSI](https://github.com/MysticGSI/mysticgsi) - Semi-GSI ports for Android devices
 
 ~There are LOTS of other projects I'm working on, but I'd prefer to keep them private 🤫 (at least for now)~
 
