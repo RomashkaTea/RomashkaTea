@@ -3,7 +3,7 @@
 I'm **Romashka**! You might also know me as **RomashkaTea** or **RomashkaGene**
 
 ### Who am I?
-- A guy from **Russia** 🇷🇺 <3
+- A guy from **Russia** 🇷🇺  
 - A **reverse engineer** & **security researcher**
 - I don't know what else to write here ;<
 
